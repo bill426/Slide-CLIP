@@ -33,7 +33,7 @@ numpy==1.26.0
 
 * Compression
 
-    1.First change the finetuned model path in all_prune_main.py.
+    1.Firstly change the finetuned model path in all_prune_main.py.
 
     2.Secondly change the dataset path in data.py correspondingly.
 
