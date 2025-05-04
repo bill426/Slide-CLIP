@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-IJCNN 2025 | [<a href="https://github.com/openai/CLIP">Paper</a>] | [<a href="https://github.com/openai/CLIP">Code</a>]
+IJCNN 2025 | [Paper] | [<a href="https://github.com/bill426/Slide-CLIP">Code</a>]
 </div>
 
 
